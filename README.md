@@ -1,3 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow.
-I am practicing the git-hub.
+I am practicing the git-hub. I have just deleted a previous line. Just to check the complex check-ins.
